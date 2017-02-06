@@ -1,0 +1,30 @@
+name       : libkipi
+version    : 16.12.1
+release    : 1
+source     :
+    - http://download.kde.org/stable/applications/16.12.1/src/libkipi-16.12.1.tar.xz : 440d985733b977f57cbef05a3bfd302adb98273941059e94010ecf5bfd14f98c
+license    :
+    - BSD-3-Clause
+    - GPL-2.0
+    - LGPL-2.1
+component  : programming.library
+summary    : Interface to use kipi-plugins
+description: |
+    Libkipi is an interface to use kipi-plugins from a KDE image management program like digiKam.
+builddeps  :
+    - pkgconfig(gl)
+    - pkgconfig(exiv2)
+    - pkgconfig(libpng)
+    - pkgconfig(libtiff-4)
+    - pkgconfig(Qt5Core)
+    - extra-cmake-modules
+    - kconfig-devel
+    - kservice-devel
+    - kxmlgui-devel
+    - libjpeg-turbo-devel
+setup      : |
+    %cmake -DBUILD_TESTING=OFF .
+build      : |
+    %make
+install    : |
+    %make_install
