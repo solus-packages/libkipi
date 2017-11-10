@@ -1,8 +1,8 @@
 name       : libkipi
-version    : 17.08.2
-release    : 5
+version    : 17.08.3
+release    : 6
 source     :
-    - https://download.kde.org/stable/applications/17.08.2/src/libkipi-17.08.2.tar.xz : 23f1090d586f7686a80ecff00828c263fc6fc3e30178c09eeb1020afbf8af5c1
+    - https://cdn.download.kde.org/stable/applications/17.08.3/src/libkipi-17.08.3.tar.xz : 5d8c1dafee765ed987bc9e12da5adf003650c2389a95207910ded4cb01870b30
 license    :
     - BSD-3-Clause
     - GPL-2.0
