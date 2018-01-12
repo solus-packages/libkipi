@@ -1,8 +1,8 @@
 name       : libkipi
-version    : 17.12.0
-release    : 7
+version    : 17.12.1
+release    : 8
 source     :
-    - https://cdn.download.kde.org/stable/applications/17.12.0/src/libkipi-17.12.0.tar.xz : fea5f87f76ae4f52470bdd5a136943c6fe8aea76658cba42551851968897b23a
+    - https://cdn.download.kde.org/stable/applications/17.12.1/src/libkipi-17.12.1.tar.xz : 5aeda85fe9be42e47bd66b88127a035a01778386caef2dfc354152d4e9448384
 license    :
     - BSD-3-Clause
     - GPL-2.0
