@@ -1,8 +1,8 @@
 name       : libkipi
-version    : 18.04.2
-release    : 13
+version    : 18.04.3
+release    : 14
 source     :
-    - https://cdn.download.kde.org/stable/applications/18.04.2/src/libkipi-18.04.2.tar.xz : 16700d690bb827660760935750a6fdb4e9a4755f28b3405a3cbb109ce9d2adad
+    - https://cdn.download.kde.org/stable/applications/18.04.3/src/libkipi-18.04.3.tar.xz : f1c425d55427c04e734fa609cba116be3457a8faddec150ccbf6049dde4cd0d3
 license    :
     - BSD-3-Clause
     - GPL-2.0
