@@ -1,8 +1,8 @@
 name       : libkipi
-version    : 18.08.0
-release    : 15
+version    : 18.08.1
+release    : 16
 source     :
-    - https://cdn.download.kde.org/stable/applications/18.08.0/src/libkipi-18.08.0.tar.xz : eda833a3c6e36c7526066686cb633539167bca1a9c48c24e31a56f92bfcf64bc
+    - https://cdn.download.kde.org/stable/applications/18.08.1/src/libkipi-18.08.1.tar.xz : 2c268c3bc65ceeca1d54b2853b5bc59bbd7796bef629c66207c363c38593d698
 license    :
     - BSD-3-Clause
     - GPL-2.0
