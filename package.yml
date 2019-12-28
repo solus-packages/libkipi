@@ -1,6 +1,6 @@
 name       : libkipi
 version    : 19.08.3
-release    : 30
+release    : 31
 source     :
     - https://cdn.download.kde.org/stable/applications/19.08.3/src/libkipi-19.08.3.tar.xz : 4b06a880a66eae18dc3ed7f4b39e877691c21d60af7603c7679ebcac5a0a7d4b
 license    : GPL-2.0-or-later
