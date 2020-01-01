@@ -3,6 +3,7 @@ version    : 19.12.0
 release    : 32
 source     :
     - https://cdn.download.kde.org/stable/release-service/19.12.0/src/libkipi-19.12.0.tar.xz : 2bc541e1e8150f9054a8c30b7d2d45ec6571eee7ef6b5113fc301811ab7e051b
+homepage   : https://kde.org/
 license    : GPL-2.0-or-later
 component  : programming.library
 optimize   : lto
