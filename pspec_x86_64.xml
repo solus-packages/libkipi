@@ -1,6 +1,7 @@
 <PISI>
     <Source>
         <Name>libkipi</Name>
+        <Homepage>https://kde.org/</Homepage>
         <Packager>
             <Name>F. von Gellhorn</Name>
             <Email>flinux@vongellhorn.ch</Email>
@@ -36,7 +37,7 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="32">libkipi</Dependency>
+            <Dependency release="33">libkipi</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="header">/usr/include/KF5/KIPI/KIPI/ConfigWidget</Path>
@@ -70,9 +71,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="32">
-            <Date>2019-12-28</Date>
-            <Version>19.12.0</Version>
+        <Update release="33">
+            <Date>2020-01-10</Date>
+            <Version>19.12.1</Version>
             <Comment>Packaging update</Comment>
             <Name>F. von Gellhorn</Name>
             <Email>flinux@vongellhorn.ch</Email>
