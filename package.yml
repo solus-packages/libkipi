@@ -1,8 +1,8 @@
 name       : libkipi
-version    : 19.12.2
-release    : 34
+version    : 19.12.3
+release    : 35
 source     :
-    - https://cdn.download.kde.org/stable/release-service/19.12.2/src/libkipi-19.12.2.tar.xz : d5203f66820a7d943d6121d6d594590ab6b225b8a644c0359ce96c0fcc776312
+    - https://cdn.download.kde.org/stable/release-service/19.12.3/src/libkipi-19.12.3.tar.xz : 3a57d07cd4fe8e118558d807242bf483fa2aac1bcf3dcdc29139636c2b280786
 homepage   : https://kde.org/
 license    : GPL-2.0-or-later
 component  : programming.library
