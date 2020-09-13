@@ -1,8 +1,8 @@
 name       : libkipi
-version    : 20.08.0
-release    : 40
+version    : 20.08.1
+release    : 41
 source     :
-    - https://cdn.download.kde.org/stable/release-service/20.08.0/src/libkipi-20.08.0.tar.xz : 2a66512b9c840e7e19f943066197a4ef68aea8cd059427732dec9cf5de84294e
+    - https://cdn.download.kde.org/stable/release-service/20.08.1/src/libkipi-20.08.1.tar.xz : 4722ab563c1350042920d1937b84fdd38b5779449a2d9b689328cd82241cb5d2
 homepage   : https://kde.org/
 license    : GPL-2.0-or-later
 component  : programming.library
