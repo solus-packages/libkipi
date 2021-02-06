@@ -1,5 +1,6 @@
 libKF5Kipi.so.32.0.0:_ZN4KIPI12ConfigWidget11qt_metacallEN11QMetaObject4CallEiPPv
 libKF5Kipi.so.32.0.0:_ZN4KIPI12ConfigWidget11qt_metacastEPKc
+libKF5Kipi.so.32.0.0:_ZN4KIPI12ConfigWidget16staticMetaObjectE
 libKF5Kipi.so.32.0.0:_ZN4KIPI12ConfigWidget18signalSearchResultEi
 libKF5Kipi.so.32.0.0:_ZN4KIPI12ConfigWidget5applyEv
 libKF5Kipi.so.32.0.0:_ZN4KIPI12ConfigWidget8clearAllEv
@@ -15,6 +16,7 @@ libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader11loadPluginsEv
 libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader11qt_metacallEN11QMetaObject4CallEiPPv
 libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader11qt_metacastEPKc
 libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader12setInterfaceEPNS_9InterfaceE
+libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader16staticMetaObjectE
 libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader21setIgnoredPluginsListERK11QStringList
 libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader24setDisabledPluginActionsERK11QStringList
 libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoader4Info13setShouldLoadEb
@@ -38,6 +40,7 @@ libKF5Kipi.so.32.0.0:_ZN4KIPI12PluginLoaderD2Ev
 libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidget11qt_metacallEN11QMetaObject4CallEiPPv
 libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidget11qt_metacastEPKc
 libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidget16selectionChangedEv
+libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidget16staticMetaObjectE
 libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidgetC1EP7QWidget
 libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidgetC2EP7QWidget
 libKF5Kipi.so.32.0.0:_ZN4KIPI12UploadWidgetD0Ev
@@ -103,6 +106,7 @@ libKF5Kipi.so.32.0.0:_ZN4KIPI21ImageCollectionSharedeqERS0_
 libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelector11qt_metacallEN11QMetaObject4CallEiPPv
 libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelector11qt_metacastEPKc
 libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelector16selectionChangedEv
+libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelector16staticMetaObjectE
 libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelector24enableVirtualCollectionsEb
 libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelectorC1EP7QWidget
 libKF5Kipi.so.32.0.0:_ZN4KIPI23ImageCollectionSelectorC2EP7QWidget
@@ -114,6 +118,7 @@ libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin11qt_metacastEPKc
 libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin12clearActionsEv
 libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin12mergeXMLFileEP13KXMLGUIClient
 libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin13setUiBaseNameEPKc
+libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin16staticMetaObjectE
 libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin18setDefaultCategoryENS_8CategoryE
 libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin5setupEP7QWidget
 libKF5Kipi.so.32.0.0:_ZN4KIPI6Plugin7rebuildEv
@@ -153,6 +158,7 @@ libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface16clearReservationERK4QUrlP7QObject
 libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface16currentSelectionEv
 libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface16progressCanceledERK7QString
 libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface16selectionChangedEb
+libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface16staticMetaObjectE
 libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface17progressCompletedERK7QString
 libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface17reservedForActionERK4QUrlRK7QString
 libKF5Kipi.so.32.0.0:_ZN4KIPI9Interface18reservationClearedERK4QUrl
@@ -235,6 +241,30 @@ libKF5Kipi.so.32.0.0:_ZNK4KIPI9Interface17progressScheduledERK7QStringbb
 libKF5Kipi.so.32.0.0:_ZNK4KIPI9Interface19createReadWriteLockERK4QUrl
 libKF5Kipi.so.32.0.0:_ZNK4KIPI9Interface23createMetadataProcessorEv
 libKF5Kipi.so.32.0.0:_ZNK4KIPI9Interface8featuresEv
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI12ConfigWidgetE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI12PluginLoaderE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI12UploadWidgetE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI15ImageInfoSharedE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI21ImageCollectionSharedE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI23ImageCollectionSelectorE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI6PluginE
+libKF5Kipi.so.32.0.0:_ZTIN4KIPI9InterfaceE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI12ConfigWidgetE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI12PluginLoaderE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI12UploadWidgetE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI15ImageInfoSharedE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI21ImageCollectionSharedE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI23ImageCollectionSelectorE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI6PluginE
+libKF5Kipi.so.32.0.0:_ZTSN4KIPI9InterfaceE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI12ConfigWidgetE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI12PluginLoaderE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI12UploadWidgetE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI15ImageInfoSharedE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI21ImageCollectionSharedE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI23ImageCollectionSelectorE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI6PluginE
+libKF5Kipi.so.32.0.0:_ZTVN4KIPI9InterfaceE
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI12ConfigWidgetD0Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI12ConfigWidgetD1Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI12UploadWidgetD0Ev
@@ -243,3 +273,6 @@ libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI23ImageCollectionSelectorD0Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI23ImageCollectionSelectorD1Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI6PluginD0Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI6PluginD1Ev
+libKF5Kipi.so.32.0.0:__bss_start
+libKF5Kipi.so.32.0.0:_edata
+libKF5Kipi.so.32.0.0:_end

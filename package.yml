@@ -1,24 +1,18 @@
 name       : libkipi
 version    : 20.12.1
-release    : 45
+release    : 46
 source     :
     - https://cdn.download.kde.org/stable/release-service/20.12.1/src/libkipi-20.12.1.tar.xz : 4f638ef8474527289f8dc1624625aa3bf3f339c3865f4a605a38c2976c70c4d2
 homepage   : https://kde.org/
 license    : GPL-2.0-or-later
 component  : programming.library
-optimize   : lto
 summary    : Interface to use kipi-plugins
 description: |
     Libkipi is an interface to use kipi-plugins from a KDE image management program like digiKam.
+optimize   : lto
 builddeps  :
-    - pkgconfig(exiv2)
-    - pkgconfig(libpng)
-    - pkgconfig(libtiff-4)
-    - pkgconfig(Qt5Core)
-    - extra-cmake-modules
     - kservice-devel
     - kxmlgui-devel
-    - libjpeg-turbo-devel
 setup      : |
     %cmake_ninja -DBUILD_TESTING=OFF
 build      : |
