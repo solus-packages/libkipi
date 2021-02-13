@@ -37,7 +37,7 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="46">libkipi</Dependency>
+            <Dependency release="47">libkipi</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="header">/usr/include/KF5/KIPI/KIPI/ConfigWidget</Path>
@@ -71,9 +71,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="46">
-            <Date>2021-02-04</Date>
-            <Version>20.12.1</Version>
+        <Update release="47">
+            <Date>2021-02-11</Date>
+            <Version>20.12.2</Version>
             <Comment>Packaging update</Comment>
             <Name>F. von Gellhorn</Name>
             <Email>flinux@vongellhorn.ch</Email>
