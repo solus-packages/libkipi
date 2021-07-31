@@ -273,6 +273,3 @@ libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI23ImageCollectionSelectorD0Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI23ImageCollectionSelectorD1Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI6PluginD0Ev
 libKF5Kipi.so.32.0.0:_ZThn16_N4KIPI6PluginD1Ev
-libKF5Kipi.so.32.0.0:__bss_start
-libKF5Kipi.so.32.0.0:_edata
-libKF5Kipi.so.32.0.0:_end
